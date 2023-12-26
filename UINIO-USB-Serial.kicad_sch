@@ -1,0 +1,21 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid d8ec999c-704b-44fc-93f3-545dce926477)
+
+  (paper "A4")
+
+  (title_block
+    (title "UINIO-USB-Serial")
+    (date "2023-12-26")
+    (rev "Version 1.0.0")
+    (company "电子技术博客 UinIO.com")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
