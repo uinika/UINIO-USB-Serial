@@ -1,6 +1,6 @@
 # UINIO-USB-Serial 串行协议转换器
 
-[**UINIO-USB-Serial**](https://github.com/uinika/UINIO-USB-Serial) 是一款基于**沁恒**高速 USB 2.0 转接芯片 [**CH347T**](https://www.wch.cn/products/CH347.html) 的 USB 串行协议转换工具，支持 USB 接口转 `GPIO`、`UART`、`I²C`、`SPI`、`JTAG`, 可以用于调试 3.3V 电平的微控制器与外设的通信，也可以配合使用 [UINIO-Level-Translator](https://github.com/uinika/UINIO-Level-Translator) 完成 `3.3V` 信号到 `1.8V` 信号的高速转换，从而实现对 FPGA 芯片的调试与下载。
+[**UINIO-USB-Serial**](https://github.com/uinika/UINIO-USB-Serial) 是一款基于**沁恒**高速 USB 2.0 转接芯片 [**CH347T**](https://www.wch.cn/products/CH347.html) 的 USB 串行协议转换工具，支持 USB 接口转 `GPIO`、`UART`、`I²C`、`SPI`、`JTAG`, 可以用于调试 3.3V 电平的微控制器与外设的通信，也可以配合 [UINIO-Signal-Translator](https://github.com/uinika/UINIO-Signal-Translator) 完成 `3.3V` 到 `1.8V` 的高速信号转换，从而实现对 FPGA 芯片的调试与下载。
 
 ![](./Images/PCB-3D-1.png)
 
