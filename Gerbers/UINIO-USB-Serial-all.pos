@@ -1,0 +1,39 @@
+### Footprint positions - created on Mon Jan  8 11:20:04 2024 ###
+### Printed by KiCad version 7.0.9
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val               Package                                 PosX       PosY       Rot  Side
+C1        0.1uF             C_0402_1005Metric                    25.5300   -20.5700  -90.0000  top
+C2        20pF              C_0402_1005Metric                    25.8800    -5.5900   90.0000  top
+C3        0.1uF             C_0402_1005Metric                    37.2900    -9.1800    0.0000  top
+C4        20pF              C_0402_1005Metric                    31.0000    -5.5900  -90.0000  top
+C5        1uF               C_0603_1608Metric                    11.8550   -18.4150   90.0000  top
+C6        1uF               C_0603_1608Metric                    17.4250   -18.4150   90.0000  top
+D1        LED_Blue          LED_0603_1608Metric                  36.7200   -15.4100  180.0000  top
+D2        LED_Red           LED_0603_1608Metric                  15.7483   -10.1075  -90.0000  top
+HOLE**    Hole-1mm          Hole-1mm                             -1.1000    -6.9300    0.0000  top
+HOLE**    Hole-1mm          Hole-1mm                             50.4600   -21.2300    0.0000  top
+HOLE**    Hole-1mm          Hole-1mm                             50.4600    -6.9300    0.0000  top
+HOLE**    Hole-1mm          Hole-1mm                             -1.0900   -21.2300    0.0000  top
+HOLE**    Hole-1mm          Hole-1mm                             28.4150    -1.3500    0.0000  top
+J1        Conn_01x07_Pin    PinHeader_1x07_P2.54mm_Vertical      33.4900   -26.7500   90.0000  top
+J2        Conn_01x10_Pin    PinHeader_1x10_P2.54mm_Vertical       0.4900    -1.3500   90.0000  top
+J3        Conn_01x04_Pin    PinHeader_1x04_P2.54mm_Vertical      28.4150   -26.7500  -90.0000  top
+J4        Conn_01x07_Pin    PinHeader_1x07_P2.54mm_Vertical      33.4900    -1.3500   90.0000  top
+J5        排针1           PinHeader_1x03_P2.54mm_Vertical      44.2000   -11.5450    0.0000  top
+J6        排针2           PinHeader_1x03_P2.54mm_Vertical      47.5597   -11.5450    0.0000  top
+J7        Conn_01x07_Pin    PinHeader_1x07_P2.54mm_Vertical      15.7400   -26.7500  -90.0000  top
+R1        4.7K              R_0402_1005Metric                    27.1200   -20.5800   90.0000  top
+R2        5.1K              R_0603_1608Metric                    11.9050   -10.1075   90.0000  top
+R3        5.1K              R_0603_1608Metric                    13.8067   -10.1075   90.0000  top
+R4        2K                R_0402_1005Metric                    37.2700   -13.6250  180.0000  top
+R5        2K                R_0402_1005Metric                    17.4300   -10.0875  -90.0000  top
+R6        4.7K              R_0402_1005Metric                    37.2700   -12.1400    0.0000  top
+R7        4.7K              R_0402_1005Metric                    37.2700   -10.6550    0.0000  top
+R8        4.7K              R_0402_1005Metric                    37.2700   -17.1950  180.0000  top
+R9        4.7K              R_0402_1005Metric                    37.2700   -18.6800  180.0000  top
+U1        CH347T            TSSOP-20_L6.5-W4.4-P0.65-LS6.4-BL    28.4618   -13.9910    0.0000  top
+U2        ME6211C33M5G      SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BR    14.6400   -18.5290  180.0000  top
+USB1      USB_Type_C_16Pin  USB-C-SMD_TYPEC-304J-BCP16            1.4610   -14.0700  -90.0000  top
+Y1        8MHz              Crystal_SMD_3225-4Pin_3.2x2.5mm      28.4400    -6.2800  -90.0000  top
+## End

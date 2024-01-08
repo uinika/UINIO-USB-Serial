@@ -8,7 +8,7 @@
     (title "UINIO-USB-Serial")
     (date "2023-12-26")
     (rev "Version 1.0.0")
-    (company "电子技术博客 UinIO.com")
+    (company "UinIO.com 硬件电子实验室")
   )
 
   (lib_symbols
