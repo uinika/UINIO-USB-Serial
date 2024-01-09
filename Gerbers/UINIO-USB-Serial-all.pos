@@ -1,4 +1,4 @@
-### Footprint positions - created on Mon Jan  8 11:20:04 2024 ###
+### Footprint positions - created on Tue Jan  9 15:11:21 2024 ###
 ### Printed by KiCad version 7.0.9
 ## Unit = mm, Angle = deg.
 ## Side : All
@@ -20,8 +20,8 @@ J1        Conn_01x07_Pin    PinHeader_1x07_P2.54mm_Vertical      33.4900   -26.7
 J2        Conn_01x10_Pin    PinHeader_1x10_P2.54mm_Vertical       0.4900    -1.3500   90.0000  top
 J3        Conn_01x04_Pin    PinHeader_1x04_P2.54mm_Vertical      28.4150   -26.7500  -90.0000  top
 J4        Conn_01x07_Pin    PinHeader_1x07_P2.54mm_Vertical      33.4900    -1.3500   90.0000  top
-J5        排针1           PinHeader_1x03_P2.54mm_Vertical      44.2000   -11.5450    0.0000  top
-J6        排针2           PinHeader_1x03_P2.54mm_Vertical      47.5597   -11.5450    0.0000  top
+J5        排针P1          PinHeader_1x03_P2.54mm_Vertical      44.2000   -11.5450    0.0000  top
+J6        排针P2          PinHeader_1x03_P2.54mm_Vertical      47.5597   -11.5450    0.0000  top
 J7        Conn_01x07_Pin    PinHeader_1x07_P2.54mm_Vertical      15.7400   -26.7500  -90.0000  top
 R1        4.7K              R_0402_1005Metric                    27.1200   -20.5800   90.0000  top
 R2        5.1K              R_0603_1608Metric                    11.9050   -10.1075   90.0000  top
