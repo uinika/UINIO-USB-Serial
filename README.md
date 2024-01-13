@@ -6,6 +6,14 @@
 
 ![](./Images/PCB-3D-2.png)
 
+## 设计概要
+
+1. 主控芯片 **CH347T** 采用了易于购买的 `TSSOP20` 封装；
+2. 工作模式采用 `P1` 与 `P2` 排针的**跳线帽**进行配置；
+3. 添加有 5 个 `1mm` 直径固定螺丝孔，方便与外壳进行固定组装；
+4. 分类引出了 UART1 和 UART2、SPI、I²C、JTAG 五条通信总线的排针，配置好工作模式之后就可以快速接线使用；
+5. 配合 [UINIO-Signal-Translator](https://gitee.com/uinika/UINIO-Signal-Translator) 可以将电平信号转换为 FPGA 芯片常用的 `1.8V`；
+
 ## 工作模式简介
 
 **UINIO-USB-Serial** 可以支持下面的四种工作模式：
@@ -25,3 +33,9 @@
 | `高电平` | `高电平` | UART1 + UART0           |
 | `高电平` | `低电平` | UART1 + SPI + I2C (HID) |
 | `低电平` | `高电平` | UART1 + SPI + I2C (VCP) |
+
+## 参考技术文档
+
+[UinIO.com 电子技术实验室](http://uinio.com/) 为 UINIO-USB-Serial 开源项目提供了如下一系列技术参考资料：
+
+- [《BOM 交互式物料清单与 PCB 布线在线预览》](http://uinio.com/archives/BOM/UINIO-USB-Serial.html)
